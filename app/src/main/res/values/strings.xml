@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinkUp</string>
+    <string name="tagline">Connect. Collaborate. Build.</string>
+    <string name="hero_headline">Find Your People. Build Something Extraordinary.</string>
+    <string name="hero_supporting">Whether you\'re searching for a co-founder, looking for your next career opportunity or building a startup team, LinkUp connects you with the right people.</string>
+    <string name="cta_final">Your next opportunity could start with one connection.</string>
+    <string name="sample_data_badge">Sample Data</string>
+    <string name="illustrative_badge">Illustrative Placeholder</string>
+</resources>

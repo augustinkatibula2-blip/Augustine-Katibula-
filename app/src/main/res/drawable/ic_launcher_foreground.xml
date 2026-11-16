@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bold LinkUp primary 'L' pillar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,31 h11 v33 h21 v11 H33 Z" />
+    <!-- Electric cyan connection node -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M65,33 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0 Z" />
+    <!-- Interlocking upward 'U' / link arm -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,48 h10 v10 h11 v11 h-21 Z" />
+</vector>
